@@ -131,6 +131,9 @@ YOLO_ByteTrack_Project/
 ## System Architecture
 
 For a detailed explanation of the system workflow and its main components, see the [Project Architecture Documentation](docs/architecture.md).
+## Experimental Report
+
+For details about the experimental environment, model configuration, evaluation procedure, preliminary performance results, and future improvements, see the [Experimental Report](docs/experiment_report.md).
 
 ## 7. Installation and Setup
 
