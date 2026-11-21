@@ -248,6 +248,11 @@ The 21 unique tracking IDs represent distinct IDs observed throughout the video,
 
 The project generates three performance graphs:
 ### Detection Count per Frame
+### Object Detection and Multi-Object Tracking Result
+
+![YOLO11 ByteTrack Tracking Result](results/plots/tracking_sample.png)
+
+*Sample frame showing YOLO11 object detection with ByteTrack tracking IDs.*
 ### Detection Count per Frame
 ![Detection Count](results/plots/detection_count.png)
 
