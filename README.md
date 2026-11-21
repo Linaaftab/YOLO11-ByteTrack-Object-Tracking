@@ -242,6 +242,14 @@ The 21 unique tracking IDs represent distinct IDs observed throughout the video,
 ## 11. Performance Visualization
 
 The project generates three performance graphs:
+### Detection Count per Frame
+![Detection Count](results/plots/detection_count.png)
+
+### Average Confidence per Frame
+![Average Confidence](results/plots/average_confidence.png)
+
+### Processing Time per Frame
+![Processing Time](results/plots/processing_time.png)
 
 ### 1. Object Detection Count per Frame
 
