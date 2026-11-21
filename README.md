@@ -122,7 +122,8 @@ YOLO_ByteTrack_Project/
 │       └── tracking_sample.png
 │
 ├── docs/
-│   └── architecture.md
+│   │   ├── architecture.md
+│   └── experiment_report.md
 │
 ├── config.yaml
 ├── requirements.txt
