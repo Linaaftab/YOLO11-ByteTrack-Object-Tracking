@@ -97,8 +97,6 @@ The system follows a sequential computer vision pipeline.
 ```
 
 ## 6. Project Structure
-
-```text
 YOLO_ByteTrack_Project/
 │
 ├── data/
@@ -114,21 +112,25 @@ YOLO_ByteTrack_Project/
 ├── results/
 │   ├── videos/
 │   │   └── tracked_output.mp4
-│   │
 │   ├── metrics/
 │   │   ├── frame_metrics.csv
 │   │   └── summary_metrics.csv
-│   │
 │   └── plots/
 │       ├── detection_count.png
 │       ├── average_confidence.png
-│       └── processing_time.png
+│       ├── processing_time.png
+│       └── tracking_sample.png
+│
+├── docs/
+│   └── architecture.md
 │
 ├── config.yaml
 ├── requirements.txt
 ├── .gitignore
 └── README.md
-```
+## System Architecture
+
+For a detailed explanation of the system workflow and its main components, see the [Project Architecture Documentation](docs/architecture.md).
 
 ## 7. Installation and Setup
 
