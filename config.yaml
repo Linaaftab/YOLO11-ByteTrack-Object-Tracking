@@ -1,0 +1,24 @@
+project:
+  name: "YOLO_ByteTrack_Object_Tracking"
+  description: "Real-Time Object Detection and Multi-Object Tracking"
+
+model:
+  name: "yolo11n.pt"
+  confidence: 0.35
+  image_size: 640
+
+tracker:
+  name: "bytetrack.yaml"
+  persist: true
+
+video:
+  input: "data/videos/input.mp4"
+  output: "results/videos/tracked_output.mp4"
+  display: true
+
+device:
+  type: "cpu"
+
+evaluation:
+  save_results: true
+  output_dir: "results"
