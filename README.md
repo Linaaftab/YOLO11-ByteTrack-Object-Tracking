@@ -1,5 +1,10 @@
 
 # Real-Time Object Detection and Multi-Object Tracking Using YOLO11 and ByteTrack
+![Python](https://img.shields.io/badge/Python-3.11-blue?logo=python&logoColor=white)
+![YOLO11](https://img.shields.io/badge/YOLO11-Ultralytics-purple)
+![ByteTrack](https://img.shields.io/badge/Tracking-ByteTrack-green)
+![OpenCV](https://img.shields.io/badge/OpenCV-Computer%20Vision-red?logo=opencv)
+![Platform](https://img.shields.io/badge/Platform-Windows-lightgrey)
 
 ## 1. Project Overview
 
